@@ -25,4 +25,4 @@ auth.sendMail(receiver,(error,email)=>{
     console.log("sucessfull")
 })
 
-}).listen(7001)
+}).listen(7008)
